@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to watch anime and play Football / Competitive games
 
 ### Connect with me:
 
