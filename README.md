@@ -46,8 +46,8 @@
 - [CodeGramming- A blog site](https://youtu.be/xasHUYKxbak)
 - [My Portfolio using Reactjs](https://youtu.be/uPQ0CnR7qzQ)
 - [Restaurant Site using Angular and JSON](https://youtu.be/C2YHNpqKLqo)
-- [My Portfolio Using HTML,CSS AND javasscript]()
-- [E-Commerce Website ]()
+- [My Portfolio Using HTML,CSS AND javasscript](https://www.youtube.com/watch?v=YIsmZHi0wVw)
+- [E-Commerce Website ](https://www.youtube.com/watch?v=QmBpCOpAtIk)
 <!-- YOUTUBE:END -->
 
 ---
