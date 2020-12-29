@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [CodeGramming- A blog site](https://youtu.be/xasHUYKxbak)
-- [My Portfolio using Reactjs](https://youtu.be/uPQ0CnR7qzQ)
-- [Restaurant Site using Angular and JSON](https://youtu.be/C2YHNpqKLqo)
-- [My Portfolio Using HTML,CSS AND javasscript](https://www.youtube.com/watch?v=YIsmZHi0wVw)
-- [E-Commerce Website ](https://www.youtube.com/watch?v=QmBpCOpAtIk)
+- [E-Commerce Website (Front End and Register Operation)](https://www.youtube.com/watch?v=QmBpCOpAtIk)
+- [A portfolio Website](https://www.youtube.com/watch?v=YIsmZHi0wVw)
+- [CodeGramming - A Wordpress Blog Website](https://www.youtube.com/watch?v=xasHUYKxbak)
+- [Portfolio using Reactjs](https://www.youtube.com/watch?v=uPQ0CnR7qzQ)
+- [Angular with Json API (Resto Site)](https://www.youtube.com/watch?v=C2YHNpqKLqo)
 <!-- YOUTUBE:END -->
 
 ---
