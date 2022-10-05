@@ -1,9 +1,9 @@
 ### Hi there, I'm Enamul Haq Chowdhury - aka [Sakib][website] 👋
 
-## I'm a Learner, Developer, and Teacher!!
+## I'm a Learner, Developer!!
 
 - 🌱 I’m currently learning everything 
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Learn <> Try
 - ⚡ Fun fact: I love to watch anime and play Football / Competitive games
 
 ### Connect with me:
