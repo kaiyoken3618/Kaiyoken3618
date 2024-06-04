@@ -3,7 +3,7 @@
 ## I'm a Learner, Developer!!
 
 - 🌱 I’m currently learning everything 
-- 🥅 2022 Goals: Learn <> Try
+- 🥅 2024 Goals: Learn <> Try
 - ⚡ Fun fact: I love to watch anime and play Football / Competitive games
 
 ### Connect with me:
